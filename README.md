@@ -1,6 +1,5 @@
 ### Hi there 👋
 I'm Usama from Pakistan
-
  🔭Working As Laravel | Python developer,
  
 🌱Actively laerning solidity and web3 , writing smart contracts , Nodejs.
